@@ -1,4 +1,4 @@
-## Mekiêe, eu sou o Mario Lourenço  : )👋
+## Comekiêe, eu sou o Mario Lourenço : )
 
 <!--
 **Mariolourenco2024/Mariolourenco2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Aqui não tem maka, tem debugging! 😂
