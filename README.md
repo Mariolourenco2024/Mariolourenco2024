@@ -1,4 +1,4 @@
-## Comekiêeee família?!, eu sou o Mario Lourenço : )
+## Comekiêeee família?! eu sou o Mario Lourenço : )
 
 <!--
 **Mariolourenco2024/Mariolourenco2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤣 Se o código funcionar à primeira, vou à igreja agradecer.
-Não tenho milhões, mas tenho commits! 😂
+Se o código funcionar à primeira, vou à igreja agradecer : )
