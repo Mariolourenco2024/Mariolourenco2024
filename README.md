@@ -1,4 +1,4 @@
-## Comekiêeee família?! Eu sou o Mário Lourenço
+## Comekiêe família! Sou o Mário Lourenço
 
 <!--
 **Mariolourenco2024/Mariolourenco2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
